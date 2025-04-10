@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Theme_FactoryAbstract/1.0.0": {
+        "runtime": {
+          "Theme_FactoryAbstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Theme_FactoryAbstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

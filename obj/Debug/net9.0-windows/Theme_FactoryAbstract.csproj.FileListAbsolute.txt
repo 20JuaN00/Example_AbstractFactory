@@ -1,0 +1,16 @@
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\bin\Debug\net9.0-windows\Theme_FactoryAbstract.exe
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\bin\Debug\net9.0-windows\Theme_FactoryAbstract.deps.json
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\bin\Debug\net9.0-windows\Theme_FactoryAbstract.runtimeconfig.json
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\bin\Debug\net9.0-windows\Theme_FactoryAbstract.dll
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\bin\Debug\net9.0-windows\Theme_FactoryAbstract.pdb
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.Form1.resources
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.csproj.GenerateResource.cache
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.AssemblyInfoInputs.cache
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.AssemblyInfo.cs
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.dll
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\refint\Theme_FactoryAbstract.dll
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.pdb
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\Theme_FactoryAbstract.genruntimeconfig.cache
+C:\Users\Juan Gómez\source\repos\Theme_FactoryAbstract\Theme_FactoryAbstract\obj\Debug\net9.0-windows\ref\Theme_FactoryAbstract.dll
